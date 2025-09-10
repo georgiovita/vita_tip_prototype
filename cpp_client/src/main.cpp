@@ -33,7 +33,7 @@ int g_img_height     = 0;
 int g_num_energies   = 2;
 
 
-bool g_flip_x = false;
+bool g_flip_x = true;
 bool g_flip_y = true;
 
 
