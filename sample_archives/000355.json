@@ -1,0 +1,211 @@
+{
+    "Direction": 1,
+    "ArchiveID": 355,
+    "Timestamp": 1722281751.540001,
+    "Filename": "000355.vita",
+    "Filepath": "/var/vita/Output/Archive/000355.vita",
+    "OperatorName": "vita",
+    "Filesize": 3176448,
+    "Width": 1128.0,
+    "Height": 704,
+    "PicturePath": "N/A",
+    "Model": "V60",
+    "SerialNumber": "YYYYMM-XXX",
+    "Tagged": false,
+    "Decision": false,
+    "Override": false,
+    "VITA_ID": "N/A",
+    "CalibrationGUID": 0,
+    "NumSources": 1,
+    "NumEnergies": 2,
+    "PixelsPerCard": 64,
+    "NumCardsView0": 11,
+    "NumCardsView1": 0,
+    "CurrentView0": 750,
+    "CurrentView1": 0,
+    "VoltageView0": 1600,
+    "VoltageView1": 0,
+    "IntegrationTime0": 4000,
+    "IntegrationTime1": 0,
+    "tags": [
+        "batch_july_29_2024",
+        "batch_july_29_2024_unit",
+        "guns",
+        "location_vita_mtl",
+        "scanner_v60"
+    ],
+    "detection": {
+        "1": {
+            "class": "bin",
+            "zone": [
+                [
+                    103,
+                    306
+                ],
+                [
+                    118,
+                    280
+                ],
+                [
+                    144,
+                    259
+                ],
+                [
+                    484,
+                    254
+                ],
+                [
+                    505,
+                    268
+                ],
+                [
+                    522,
+                    297
+                ],
+                [
+                    537,
+                    735
+                ],
+                [
+                    508,
+                    765
+                ],
+                [
+                    487,
+                    769
+                ],
+                [
+                    168,
+                    778
+                ],
+                [
+                    135,
+                    757
+                ],
+                [
+                    119,
+                    726
+                ]
+            ]
+        },
+        "2": {
+            "class": "tsk3700",
+            "zone": [
+                [
+                    134,
+                    445
+                ],
+                [
+                    179,
+                    377
+                ],
+                [
+                    166,
+                    364
+                ],
+                [
+                    182,
+                    340
+                ],
+                [
+                    184,
+                    323
+                ],
+                [
+                    221,
+                    328
+                ],
+                [
+                    378,
+                    372
+                ],
+                [
+                    397,
+                    380
+                ],
+                [
+                    409,
+                    400
+                ],
+                [
+                    393,
+                    419
+                ],
+                [
+                    370,
+                    426
+                ],
+                [
+                    327,
+                    424
+                ],
+                [
+                    296,
+                    435
+                ],
+                [
+                    236,
+                    430
+                ],
+                [
+                    197,
+                    479
+                ],
+                [
+                    166,
+                    469
+                ]
+            ]
+        },
+        "3": {
+            "class": "mag",
+            "zone": [
+                [
+                    237,
+                    695
+                ],
+                [
+                    332,
+                    594
+                ],
+                [
+                    375,
+                    612
+                ],
+                [
+                    297,
+                    716
+                ],
+                [
+                    294,
+                    728
+                ],
+                [
+                    244,
+                    710
+                ]
+            ]
+        },
+        "4": {
+            "class": "bullet",
+            "zone": [
+                [
+                    291,
+                    640
+                ],
+                [
+                    337,
+                    592
+                ],
+                [
+                    376,
+                    614
+                ],
+                [
+                    330,
+                    665
+                ]
+            ]
+        }
+    }
+}
